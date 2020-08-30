@@ -1,5 +1,12 @@
 @import "./variables";
-
-body {
-  color: green;
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+.page-link {
+  &:hover {
+    background-color: $primary;
+    color: white;
+  }
 }
+
+
+@import "./jumbotron";
+@import "./footer";
