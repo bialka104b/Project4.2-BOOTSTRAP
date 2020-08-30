@@ -24,3 +24,5 @@
 +-- webpack-cli@3.3.12
 `-- webpack-dev-server@3.11.0
 ```
+
+## dist folder is a folder for productions
